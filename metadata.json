@@ -1,5 +1,4 @@
 {
   "name": "Analisador de Placa de Veículo",
-  "description": "Um aplicativo da web que utiliza a API Gemini para analisar imagens de radar de veículos, detectar placas, extrair o número da placa via OCR e exibir os resultados com uma caixa delimitadora.",
-  "requestFramePermissions": []
+  "description": "Um aplicativo da web que utiliza a API Gemini para analisar imagens de radar de veículos, detectar placas, extrair o número da placa via OCR e exibir os resultados com uma caixa delimitadora."
 }
